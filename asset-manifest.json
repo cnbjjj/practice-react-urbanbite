@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/practice-react-urbanbite/static/css/main.4a5a5ce7.css",
+    "main.js": "/practice-react-urbanbite/static/js/main.d1cdcc53.js",
+    "static/media/hero.jpg": "/practice-react-urbanbite/static/media/hero.b63f6b860dc7624b78e9.jpg",
+    "static/media/menu.jpg": "/practice-react-urbanbite/static/media/menu.ebedcef1f775d5d5b35b.jpg",
+    "index.html": "/practice-react-urbanbite/index.html",
+    "main.4a5a5ce7.css.map": "/practice-react-urbanbite/static/css/main.4a5a5ce7.css.map",
+    "main.d1cdcc53.js.map": "/practice-react-urbanbite/static/js/main.d1cdcc53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a5a5ce7.css",
+    "static/js/main.d1cdcc53.js"
+  ]
+}
